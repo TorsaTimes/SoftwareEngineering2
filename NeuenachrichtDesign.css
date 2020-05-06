@@ -1,0 +1,41 @@
+body {
+    background-color: #C4CDD4;
+    font-family: 'Abel', sans-serif;
+}
+
+a {
+    font-weight: bold;
+    color: black;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: none;
+    color: yellowgreen;
+}
+
+#überschrift {
+    background-color: #C4CDD4;
+    border-width: 1px;
+    margin: 10px;
+    font-family: 'Righteous', cursive;
+}
+
+#navigation {
+    position: absolute;
+    top: 65px;
+    width: 100px;
+}
+
+#inhalt {
+    top: 50px;
+    margin-left: 120px;
+    background-color: #C4CDD4;
+}
+
+#navigationsüberschrift {
+    text-decoration: overline underline;
+    font-weight: bold;
+}
+
+.Navigationsbuttons {}
